@@ -1,0 +1,29 @@
+{
+  "name": "arcana-sdk",
+  "version": "1.0.5",
+  "description": "arcana-sdk for webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranasakshi02/arcana-sdk.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "javascript"
+  ],
+  "author": "arcana sdk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranasakshi02/arcana-sdk/issues"
+  },
+  "homepage": "https://github.com/ranasakshi02/arcana-sdk#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-webview": "^11.26.1"
+  }
+}
